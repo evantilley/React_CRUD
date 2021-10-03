@@ -1,0 +1,16 @@
+.bold{
+	font-weight: bold;
+}
+
+.large{
+	font-size: x-large;
+}
+
+.medium{
+	font-size: large;
+}
+
+.close{
+	color: red;
+	cursor: pointer;
+}
